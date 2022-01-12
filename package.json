@@ -7,5 +7,9 @@
   },
   "devDependencies": {
     "nuxt3": "3.0.0-27324955.23397e6"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.1.8",
+    "pinia": "^2.0.9"
   }
 }
