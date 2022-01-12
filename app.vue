@@ -1,11 +1,5 @@
 <template>
   <div>
-    {{ test.value }}
-    <NuxtWelcome />
+    <NuxtPage/>
   </div>
 </template>
-
-<script setup lang="ts">
-import { useTest } from "~/store/test";
-const test = useTest()
-</script>
