@@ -6,7 +6,7 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "3.0.0-27324955.23397e6"
+    "nuxt": "3.0.0-rc.3"
   },
   "dependencies": {
     "@pinia/nuxt": "^0.1.8",
